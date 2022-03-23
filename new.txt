@@ -1,0 +1,10 @@
+EOD-
+Created the Online Repository on github and Connected to local machine 
+https://github.com/Shubham0197/Training
+Run the commands in git bash to work in the Directory like GIT Add, git merge, git Pull in Staging area git Commit, git Fetch ,git diff, git checkout to go to previous version and use of working areas
+
+
+Next-
+Pushing the updated to the Remote repo fron the local repo
+Adding SSh in git hub 
+How to do Branching in the remote Repo 
