@@ -10,14 +10,12 @@ Adding SSh in git hub
 How to do Branching in the remote Repo 
 adding sometihng
 
-help!!!!!!!!!!!!!!!!!!!!!!
+help!!!!!!!!!
 
 working in branch
 
 
-<<<<<<< HEAD
+
 why do this
-=======
-abcdcabdd
->>>>>>> feature
+
 adding to see the different int the diff
