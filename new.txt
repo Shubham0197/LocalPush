@@ -13,9 +13,8 @@ adding sometihng
 working in branch
 
 
-<<<<<<< HEAD
+
 why do this
-=======
-abcdcabdd
->>>>>>> feature
+Feature branch workflow
+
 adding to see the different int the diff
