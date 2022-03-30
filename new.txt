@@ -13,5 +13,9 @@ adding sometihng
 working in branch
 
 
+<<<<<<< HEAD
 why do this
+=======
+abcdcabdd
+>>>>>>> feature
 adding to see the different int the diff
