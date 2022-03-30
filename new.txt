@@ -12,7 +12,7 @@ adding sometihng
 
 working in branch
 
-fetch
-pull
+
 push
 newbranch
+adding to see the different int the diff
